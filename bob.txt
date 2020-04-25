@@ -1,2 +1,4 @@
-hi, I'm Bob
-Odd name for a girl, isn't it?
+"hi, I'm Bob"
+"Odd name for a girl, isn't it?"
+"Yes, it is an odd name for a girl. But not for a strapping lad like me!"
+"So you wouldn't say you are a girl then?"
